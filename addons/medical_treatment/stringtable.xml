@@ -150,6 +150,7 @@
             <German>Aktiviert und können sich wieder öffnen</German>
             <Chinesesimp>已启用 &amp; 可以伤口开裂</Chinesesimp>
             <Korean>활성화 및 붕대 풀림 구현</Korean>
+            <Portuguese>Ativar e pode reabrir</Portuguese>
         </Key>
         <Key ID="STR_ACE_Medical_Treatment_WoundReopenChance_DisplayName">
             <English>Wound Reopening Coefficient</English>
@@ -163,6 +164,7 @@
             <Spanish>Coeficiente de reapertura de heridas</Spanish>
             <Chinesesimp>伤口开裂系数</Chinesesimp>
             <Korean>붕대 풀림 계수</Korean>
+            <Portuguese>Coeficiente de reabertura da ferida</Portuguese>
         </Key>
         <Key ID="STR_ACE_Medical_Treatment_WoundReopenChance_Description">
             <English>Coefficient for controlling the wound reopening chance. The final reopening chance is determined by multiplying this value with the specific reopening chance for the wound type and bandage used.</English>
@@ -176,6 +178,7 @@
             <Spanish>Coeficiente que controla la probabilidad de reapertura de heridas. La probabilidad final de reapertura de heridas queda determinada multiplicando este valor por la probabilidad específica del tipo de herida y venda usada.</Spanish>
             <Chinesesimp>用于控制伤口开裂概率的系数。最终的重开放概率=该值x伤口类型x所使用的绷带的具体开裂概率。</Chinesesimp>
             <Korean>붕대가 풀리는 기회 계수를 정합니다. 최종 붕대 풀림 계수는 상처의 종류와 쓰인 붕대의 합의 결과에 계수를 곱한 결과입니다.</Korean>
+            <Portuguese>Coeficiente para controlar a chance de reabertura da ferida. A chance final de reabertura é determinada pela multiplicação desse valor pela chance específica de reabertura para o tipo de ferida e curativo utilizado.</Portuguese>
         </Key>
         <Key ID="STR_ACE_Medical_Treatment_ClearTrauma_DisplayName">
             <English>Clear Trauma</English>
@@ -186,6 +189,7 @@
             <Polish>Leczenie ran</Polish>
             <Chinesesimp>清理创伤</Chinesesimp>
             <Korean>상처 제거</Korean>
+            <Portuguese>Limpar Trauma</Portuguese>
         </Key>
         <Key ID="STR_ACE_Medical_Treatment_ClearTrauma_Description">
             <English>Controls when hitpoint damage from wounds is healed.</English>
@@ -1228,6 +1232,7 @@
             <Russian>Только убрано</Russian>
             <Spanish>Solo enfundada</Spanish>
             <Korean>집어넣기</Korean>
+            <Portuguese>Somente no coldre</Portuguese>
         </Key>
         <Key ID="STR_ACE_Medical_Treatment_HolsterRequired_HolsteredExam">
             <English>Holstered Only (Except Exam)</English>
@@ -1242,6 +1247,7 @@
             <Russian>Только убрано (Проверка разрешена)</Russian>
             <Spanish>Solo enfundada (excepto examen)</Spanish>
             <Korean>집어넣기(검사 제외)</Korean>
+            <Portuguese>Somente no coldre (exceto exame)</Portuguese>
         </Key>
         <Key ID="STR_ACE_Medical_Treatment_medicalSupplyCrate">
             <English>[ACE] Medical Supply Crate (Basic)</English>
@@ -2856,7 +2862,7 @@
             <French>Bandage hémostatique</French>
             <Hungarian>QuikClot</Hungarian>
             <Italian>QuikClot (polvere emostatica)</Italian>
-            <Portuguese>QuikClot</Portuguese>
+            <Portuguese>Bandagem Hemostática</Portuguese>
             <Japanese>クイッククロットを巻く</Japanese>
             <Korean>붕대 (퀵 클롯)</Korean>
             <Chinesesimp>绷带（止血型）</Chinesesimp>

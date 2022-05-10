@@ -56,6 +56,7 @@
             <Polish>Współczynnik nagrzewania</Polish>
             <Chinesesimp>过热系数</Chinesesimp>
             <Korean>과열 계수</Korean>
+            <Portuguese>Coeficiente de Aquecimento</Portuguese>
         </Key>
         <Key ID="STR_ACE_Overheating_heatCoef_description">
             <English>Coefficient for the amount of heat a weapon generates per shot.\nHigher value increases heat.</English>
@@ -66,30 +67,35 @@
             <Polish>Współczynnik wpływający na ilość ciepła generowanego przez broń przy każdym strzale.</Polish>
             <Chinesesimp>武器每次射击产生的热量系数。\n数值越高，热量越高。</Chinesesimp>
             <Korean>매 발사마다 만들어지는 열에 계수를 적용합니다.\n높은 계수는 더 많은 열을 발생시킵니다.</Korean>
+            <Portuguese>Coeficiente para a quantidade de calor que uma arma gera por tiro.\nValores mais altos aumentam o calor.</Portuguese>
         </Key>
         <Key ID="STR_ACE_Overheating_coolingCoef_displayName">
             <English>Cooling Coefficient</English>
             <Chinesesimp>冷却系数</Chinesesimp>
             <Korean>냉각 계수</Korean>
             <German>Abkühlungskoeffizienten</German>
+            <Portuguese>Coeficiente de resfriamento</Portuguese>
         </Key>
         <Key ID="STR_ACE_Overheating_coolingCoef_description">
             <English>Coefficient for how quickly a weapon cools down.\nHigher value increases cooling speed.</English>
             <Chinesesimp>武器冷却速度系数。\n数值越高，冷却速度越快。</Chinesesimp>
             <Korean>무기가 차가워지는 정도를 정합니다.\n높은 계수는 무기가 빨리 차가워지는데 관여합니다.</Korean>
             <German>Koeffizient, der angibt, wie schnell eine Waffe abkühlt.\nEin höherer Wert erhöht die Abkühlgeschwindigkeit.</German>
+            <Portuguese>Coeficiente da rapidez com que uma arma esfria.\nValores mais altos aumentam a velocidade de resfriamento.</Portuguese>
         </Key>
         <Key ID="STR_ACE_Overheating_suppressorCoef_displayName">
             <English>Suppressor Coefficient</English>
             <Chinesesimp>消音器系数</Chinesesimp>
             <Korean>소음기 계수</Korean>
             <German>Schalldämpfer-Koeffizient</German>
+            <Portuguese>Coeficiente Supressor</Portuguese>
         </Key>
         <Key ID="STR_ACE_Overheating_suppressorCoef_description">
             <English>Coefficient for how much additional heat is added from having a suppressor attached.\nHigher value increases heat, 0 means no additional heat from the suppressor.</English>
             <Chinesesimp>附加了消音器后，产生的额外热量系数。\n数值越高，热量越高，0意味着消音器不产生额外热量。</Chinesesimp>
             <Korean>소음기 장착 시 만들어 지는 열에 대한 계수를 적용합니다.\n높을 수록 온도가 높아집니다, 0으로 설정 시 추가적인 열을 얻지 않습니다.</Korean>
             <German>Koeffizient, der angibt, wie viel zusätzliche Wärme durch das Anbringen eines Schalldämpfers hinzugefügt wird. Ein höherer Wert erhöht die Menge an Wärme, 0 bedeutet, dass keine zusätzliche Wärme durch den Schalldämpfer hinzukommt.</German>
+            <Portuguese>Coeficiente de quanto calor adicional é adicionado por ter um supressor conectado.\nO valor mais alto aumenta o calor, 0 significa que não há calor adicional do supressor.</Portuguese>
         </Key>
         <Key ID="STR_ACE_Overheating_DisplayTextOnJam_displayName">
             <English>Display Text on Jam</English>
